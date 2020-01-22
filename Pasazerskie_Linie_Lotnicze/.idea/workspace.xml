@@ -1,0 +1,301 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c1e63eeb-aad8-4911-86fa-d5d7348baed5" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="Pasazerskie_Linie_Lotnicze" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JUnit5 Test Class" />
+        <option value="JUnit4 Test Class" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1Vhy3ES1tSayOW7ODYhJqfFOQsg" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
+    <property name="create.test.in.the.same.root" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Downloads/jar_files/jmockit-1.27.jar!/" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="project.propGUI" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="WarstwaBiznesowa" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Aplikacja">
+    <configuration name="Aplikacja" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="WarstwaAplikacji.Aplikacja" />
+      <module name="Pasazerskie_Linie_Lotnicze" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="WarstwaAplikacji.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MenedzerKontaTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Pasazerskie_Linie_Lotnicze" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="WarstwaBiznesowa.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="WarstwaBiznesowa" />
+      <option name="MAIN_CLASS_NAME" value="WarstwaBiznesowa.MenedzerKontaTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MenedzerKontaTestMockit" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Pasazerskie_Linie_Lotnicze" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="WarstwaBiznesowa.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="WarstwaBiznesowa" />
+      <option name="MAIN_CLASS_NAME" value="WarstwaBiznesowa.MenedzerKontaTestMockit" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MenedzerPolaczeniaTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Pasazerskie_Linie_Lotnicze" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="WarstwaBiznesowa.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="WarstwaBiznesowa" />
+      <option name="MAIN_CLASS_NAME" value="WarstwaBiznesowa.MenedzerPolaczeniaTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MenedzerPolaczeniaTestMockit" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Pasazerskie_Linie_Lotnicze" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="WarstwaBiznesowa.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="WarstwaBiznesowa" />
+      <option name="MAIN_CLASS_NAME" value="WarstwaBiznesowa.MenedzerPolaczeniaTestMockit" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Aplikacja" />
+        <item itemvalue="JUnit.MenedzerPolaczeniaTestMockit" />
+        <item itemvalue="JUnit.MenedzerKontaTestMockit" />
+        <item itemvalue="JUnit.MenedzerPolaczeniaTest" />
+        <item itemvalue="JUnit.MenedzerKontaTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c1e63eeb-aad8-4911-86fa-d5d7348baed5" name="Default Changelist" comment="" />
+      <created>1577719419656</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1577719419656</updated>
+      <workItem from="1577719424361" duration="2754000" />
+      <workItem from="1577999346426" duration="4390000" />
+      <workItem from="1578003807640" duration="10000" />
+      <workItem from="1578414504598" duration="11768000" />
+      <workItem from="1578478980949" duration="1585000" />
+      <workItem from="1578481984966" duration="837000" />
+      <workItem from="1578484228635" duration="1608000" />
+      <workItem from="1578565900649" duration="2589000" />
+      <workItem from="1578572430108" duration="5736000" />
+      <workItem from="1578579643675" duration="2862000" />
+      <workItem from="1578598626917" duration="1476000" />
+      <workItem from="1578657191266" duration="200000" />
+      <workItem from="1578657462445" duration="28573000" />
+      <workItem from="1579004640203" duration="1218000" />
+      <workItem from="1579026252998" duration="15839000" />
+      <workItem from="1579105471615" duration="8058000" />
+      <workItem from="1579121567958" duration="77000" />
+      <workItem from="1579168451489" duration="1814000" />
+      <workItem from="1579347882158" duration="12113000" />
+      <workItem from="1579538771836" duration="2283000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="552" y="179" width="816" height="729" key="#Intentions" timestamp="1579044348476">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="179" width="816" height="729" key="#Intentions/0.0.1920.1040@0.0.1920.1040" timestamp="1579044348476" />
+    <state x="552" y="178" key="#Project_Structure" timestamp="1577719616239">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="178" key="#Project_Structure/0.0.1920.1040@0.0.1920.1040" timestamp="1577719616239" />
+    <state x="552" y="178" key="#Setter_Template" timestamp="1577720828423">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="178" key="#Setter_Template/0.0.1920.1040@0.0.1920.1040" timestamp="1577720828423" />
+    <state x="765" y="203" key="#com.intellij.ide.util.MemberChooser" timestamp="1579348111650">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="765" y="203" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1579348111650" />
+    <state x="689" y="303" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1578420877077">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="689" y="303" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1578420877077" />
+    <state x="640" y="255" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1578657363023">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="640" y="255" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1578657363023" />
+    <state x="833" y="407" key="#com.intellij.uiDesigner.palette.ComponentItemDialog.OneOff" timestamp="1578421715609">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="833" y="407" key="#com.intellij.uiDesigner.palette.ComponentItemDialog.OneOff/0.0.1920.1040@0.0.1920.1040" timestamp="1578421715609" />
+    <state x="830" y="403" key="FileChooserDialogImpl" timestamp="1579115958450">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="830" y="403" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1579115958450" />
+    <state width="1877" height="282" key="GridCell.Tab.0.bottom" timestamp="1579366068901">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1579366068901" />
+    <state width="1877" height="282" key="GridCell.Tab.0.center" timestamp="1579366068901">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="282" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1579366068901" />
+    <state width="1877" height="282" key="GridCell.Tab.0.left" timestamp="1579366068901">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="282" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1579366068901" />
+    <state width="1877" height="282" key="GridCell.Tab.0.right" timestamp="1579366068901">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="282" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1579366068901" />
+    <state width="1877" height="348" key="GridCell.Tab.1.bottom" timestamp="1579045152350">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1579045152350" />
+    <state width="1877" height="348" key="GridCell.Tab.1.center" timestamp="1579045152350">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1579045152350" />
+    <state width="1877" height="348" key="GridCell.Tab.1.left" timestamp="1579045152350">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1579045152350" />
+    <state width="1877" height="348" key="GridCell.Tab.1.right" timestamp="1579045152350">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1579045152350" />
+    <state x="151" y="378" width="1532" height="523" key="GuiDesigner.FormSource.Dialog" timestamp="1578422194808">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="151" y="378" width="1532" height="523" key="GuiDesigner.FormSource.Dialog/0.0.1920.1040@0.0.1920.1040" timestamp="1578422194808" />
+    <state x="461" y="162" key="SettingsEditor" timestamp="1579121642537">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="461" y="162" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1579121642537" />
+    <state x="525" y="272" key="com.intellij.ide.util.TipDialog" timestamp="1579538772915">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="525" y="272" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1579538772915" />
+    <state x="656" y="343" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1579347898102" />
+    <state x="665" y="414" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1579110344002">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="665" y="414" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.0.1920.1040@0.0.1920.1040" timestamp="1579110344002" />
+    <state x="731" y="224" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1579118222819">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="731" y="224" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1579118222819" />
+    <state x="616" y="240" key="run.anything.popup" timestamp="1579044010334">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="616" y="240" key="run.anything.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1579044010334" />
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1579540435827">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1579540435827" />
+  </component>
+</project>
