@@ -1,3 +1,4 @@
+/*
 package WarstwaBiznesowa;
 
 import WarstwaAplikacji.MenuGlowneAdmin;
@@ -52,4 +53,4 @@ public class MenedzerPolaczeniaTestMockit {
             JOptionPane.showMessageDialog(null, ex);
         }
     }
-}
+}*/

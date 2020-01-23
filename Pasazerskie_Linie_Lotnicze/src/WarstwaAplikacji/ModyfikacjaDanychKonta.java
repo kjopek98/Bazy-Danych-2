@@ -71,7 +71,7 @@ public class ModyfikacjaDanychKonta {
             public void actionPerformed(ActionEvent actionEvent) {
                 String[] dane;
                 if (loginField.getText().equals("")) {
-                    JOptionPane.showMessageDialog(null, "Pole z numerem ID lotu musi zostać wypełnione!");
+                    JOptionPane.showMessageDialog(null, "Pole z numerem ID użytkownika musi zostać wypełnione!");
                     return;
                 }
                 if (Aplikacja.admin == true) {
